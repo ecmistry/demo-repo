@@ -1,14 +1,14 @@
-# Demo Repository
+# Flask Demo App
 
-This is a demonstration repository for showcasing GitHub workflows.
+A minimal Flask web app to learn how GitHub works.
 
-## Purpose
-Educational demonstration of Git/GitHub best practices.
+## How to run
 
-## Contents
-- Calculator module for basic arithmetic operations
-- Documentation and examples
+```bash
+pip install -r requirements.txt
+python app.py
 
-## Author
-Created for technical interview demonstration
+Visit http://localhost:5000 in your browser.
+
+```
 
